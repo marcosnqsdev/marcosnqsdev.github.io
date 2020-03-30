@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marcosnqsdev.github.io/static/css/main.523f09c5.chunk.css",
+    "main.js": "/marcosnqsdev.github.io/static/js/main.9b057fcf.chunk.js",
+    "main.js.map": "/marcosnqsdev.github.io/static/js/main.9b057fcf.chunk.js.map",
+    "runtime-main.js": "/marcosnqsdev.github.io/static/js/runtime-main.abc0a885.js",
+    "runtime-main.js.map": "/marcosnqsdev.github.io/static/js/runtime-main.abc0a885.js.map",
+    "static/js/2.a607b981.chunk.js": "/marcosnqsdev.github.io/static/js/2.a607b981.chunk.js",
+    "static/js/2.a607b981.chunk.js.map": "/marcosnqsdev.github.io/static/js/2.a607b981.chunk.js.map",
+    "index.html": "/marcosnqsdev.github.io/index.html",
+    "precache-manifest.7985dfa97ef06e343b29a13911af95d2.js": "/marcosnqsdev.github.io/precache-manifest.7985dfa97ef06e343b29a13911af95d2.js",
+    "service-worker.js": "/marcosnqsdev.github.io/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/marcosnqsdev.github.io/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.a607b981.chunk.js.LICENSE.txt": "/marcosnqsdev.github.io/static/js/2.a607b981.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/marcosnqsdev.github.io/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abc0a885.js",
+    "static/js/2.a607b981.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.9b057fcf.chunk.js"
+  ]
+}
